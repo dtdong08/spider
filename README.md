@@ -1,5 +1,5 @@
 # Interactive_Spider
 
-Demo at image:
+Demo:
 
 ![Demo](images/demo.png)
