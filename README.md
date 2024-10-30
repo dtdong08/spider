@@ -2,5 +2,6 @@
 
 Demo:
 
-![Demo](images/demo.png =400x)
+<img src="images/demo.png" alt="Demo" width="400"/>
+
 
