@@ -2,4 +2,5 @@
 
 Demo:
 
-![Demo](images/demo.png)
+![Demo](images/demo.png =400x)
+
